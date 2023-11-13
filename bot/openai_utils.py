@@ -161,7 +161,7 @@ class ChatGPT:
         elif model == "gpt-4":
             tokens_per_message = 3
             tokens_per_name = 1
-        elif: model == "gpt-4-1106-preview":
+        elif model == "gpt-4-1106-preview":
             tokens_per_message = 3
             tokens_per_name = 1
         else:
